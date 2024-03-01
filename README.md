@@ -20,3 +20,5 @@ to [janiorca](https://github.com/janiorca/sphere_dance) for a basic rust 4k setu
 * https://ctrl-alt-test.fr/minifier/?main
 * https://archive.is/w01DO#selection-625.118-625.145
 * https://learn.microsoft.com/en-us/windows/win32/debug/pe-forma
+
+Submitted as "ulxyl" for the CG WS23/24 course at the KIT.
