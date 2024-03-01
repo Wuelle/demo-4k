@@ -1,6 +1,6 @@
 ## Usage
 Since building this can be a bit of a pain, i also uploaded the final executable as `final.exe`.
-A (low quality) recording of the demo can also be found on [Odysee](https://odysee.com/2024-01-14-19-09-10:e).
+A (low quality) recording of the demo can also be found on [Odysee](https://odysee.com/2024-01-14-19-09-10:e) (featuring my cursor).
 
 If you *do* want to build this yourself, run
 ```
